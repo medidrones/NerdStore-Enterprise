@@ -33,8 +33,7 @@
       <ul>
         <li><a href="#ecommerce-nerdstore-enterprise">Ecommerce NerdStore Enterprise</a></li>
         <li><a href="#rabbitmq-dashboard-geral">RabbitMQ Dashboard Geral</a></li>
-        <li><a href="#rabbitmq-conexões-dos-microsserviços">RabbitMQ Conexões dos Microsserviços</a></li>
-        <li><a href="#rabbitmq-dashboard-geral">RabbitMQ Dashboard Geral</a></li>
+        <li><a href="#rabbitmq-conexões-dos-microsserviços">RabbitMQ Conexões dos Microsserviços</a></li>        
         <li><a href="#rabbitmq-canais-ativos">RabbitMQ Canais Ativos</a></li>
         <li><a href="#rabbitmq-exchanges-configuradas">RabbitMQ Exchanges Configuradas</a></li>
         <li><a href="#rabbitmq-filas-ativas">RabbitMQ Filas Ativas</a></li>
