@@ -207,3 +207,4 @@ As imagens e diagramas podem ser disponibilizados em alta resolução (SVG ou PN
 
 Projeto distribuído sob a licença **MIT**. Consulte o arquivo LICENSE para detalhes.
 
+
