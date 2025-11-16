@@ -25,33 +25,33 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#requisitos">Requisitos</a></li>
-        <li><a href="#instalacao">Instalação</a></li>
+        <li><a href="#instalação">Instalação</a></li>
       </ul>
     </li>
     <li>
-      <a href="#evidencias-operacionais">Evidências Operacionais</a>
+      <a href="#evidências-operacionais">Evidências Operacionais</a>
       <ul>
-        <li><a href="#ecommerce-nerdstore-enterprise">E-commerce NerdStore Enterprise</a></li>
-        <li><a href="#rabbitmq-dashboard-geral">RabbitMQ – Dashboard Geral</a></li>
-        <li><a href="#rabbitmq-conexoes-dos-microsserviços">RabbitMQ – Conexões dos Microsserviços</a></li>
-        <li><a href="#rabbitmq-dashboard-geral">RabbitMQ – Dashboard Geral</a></li>
-        <li><a href="#rabbitmq-canais-ativos">RabbitMQ – Canais Ativos</a></li>
-        <li><a href="#rabbitmq-exchanges-configuradas">RabbitMQ – Exchanges Configuradas</a></li>
-        <li><a href="#rabbitmq-filas-ativas">RabbitMQ – Filas Ativas</a></li>
-        <li><a href="#banco-de-dados-ASPNET-users">Banco de Dados – ASP.NET Users</a></li>
-        <li><a href="#banco-de-dados-clientes">Banco de Dados – Clientes</a></li>
+        <li><a href="#ecommerce-nerdstore-enterprise">Ecommerce NerdStore Enterprise</a></li>
+        <li><a href="#rabbitmq-dashboard-geral">RabbitMQ Dashboard Geral</a></li>
+        <li><a href="#rabbitmq-conexões-dos-microsserviços">RabbitMQ Conexões dos Microsserviços</a></li>
+        <li><a href="#rabbitmq-dashboard-geral">RabbitMQ Dashboard Geral</a></li>
+        <li><a href="#rabbitmq-canais-ativos">RabbitMQ Canais Ativos</a></li>
+        <li><a href="#rabbitmq-exchanges-configuradas">RabbitMQ Exchanges Configuradas</a></li>
+        <li><a href="#rabbitmq-filas-ativas">RabbitMQ Filas Ativas</a></li>
+        <li><a href="#banco-de-dados-aspnet-users">Banco de Dados ASPNet Users</a></li>
+        <li><a href="#banco-de-dados-clientes">Banco de Dados Clientes</a></li>
       </ul>
     </li>    
     <li>
-      <a href="#materiais-executivos-e-diagramas-avancados">Materiais Executivos</a>
+      <a href="#materiais-executivos-e-diagramas-avançados">Materiais Executivos e Diagramas Avançados</a>
       <ul>
-        <li><a href="#descricoes-executivas">Descrições Executivas</a></li>
-        <li><a href="#versoes-em-alta-resolucao">Versões em Alta Resolução</a></li>
-        <li><a href="#diagramas-adicionais-disponiveis">Diagramas Adicionais Disponíveis</a></li>            
+        <li><a href="#descrições-executivas">Descrições Executivas</a></li>
+        <li><a href="#versões-em-alta-resolução">Versões em Alta Resolução</a></li>
+        <li><a href="#diagramas-adicionais-disponíveis">Diagramas Adicionais Disponíveis</a></li>            
       </ul>
     </li>    
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#licenca">Licença</a></li>    
+    <li><a href="#licença">Licença</a></li>    
   </ol>
 </details>
 
