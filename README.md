@@ -11,8 +11,7 @@
       <a href="#sobre-o-projeto">Sobre o Projeto</a>
       <ul>
         <li><a href="#tecnologias-e-ferramentas">Tecnologias e Ferramentas</a></li>
-        <li><a href="#arquitetura">Arquitetura</a></li>
-        <li><a href="#features">Features</a></li>
+        <li><a href="#arquitetura">Arquitetura</a></li>        
       </ul>
     </li>
     <li>
